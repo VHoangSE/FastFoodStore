@@ -1,0 +1,11 @@
+# NetBeans files
+nbproject/private/
+build/
+dist/
+
+# Ignore all JAR files in lib except your own libraries
+lib/*.jar
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
